@@ -7,7 +7,7 @@
   "repository": "https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {A-S-W-I-N-S-P-A-R-K-Y:79dfbccf0f7d5e6fd61b3f7065782591) 
       "description": "A-S-W-I-N-S-P-A-R-K-Y:79dfbccf0f7d5e6fd61b3f7065782591",
       "required": true
     },
@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": true,
-      "value": "" 
+      "value": "071 529 8292"
     },
     "HEROKU_APP_NAME": {
       "description": "Enter Your Heroku App Name Same As Above You Entered",
