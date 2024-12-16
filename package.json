@@ -2,7 +2,7 @@
   "name": "X-BOT-MD",
   "version": "3.2.0",
   "description": "WhatsApp Helper Bot",
-  "main": "index.js",
+  "main": "A-S-W-I-N-S-P-A-R-K-Y:79dfbccf0f7d5e6fd61b3f7065782591",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "pm2 start . --attach --name X-BOT-MD",
